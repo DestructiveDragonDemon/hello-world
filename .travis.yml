@@ -1,2 +1,2 @@
-language:c
-script:gcc test.c -o test
+language: c
+script: gcc test.c -o test
